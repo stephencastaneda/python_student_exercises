@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "database": "${workspaceFolder:exercises}/studentexercises.db",
+      "driver": "SQLite",
+      "name": "student_exercises",
+      "previewLimit": 50
+    }
+  ]
+}
